@@ -1,5 +1,11 @@
 # Webcam Easy JS
+
 ## Check this out here (https://devcam-v3.herokuapp.com/)
+![Screenshot_2021-06-11-22-00-46-05](https://user-images.githubusercontent.com/75971776/121720602-ee193500-cb00-11eb-829e-21adccf64fba.jpg)
+![Screenshot_2021-06-11-22-01-29-30](https://user-images.githubusercontent.com/75971776/121720609-efe2f880-cb00-11eb-8f9a-36e4637bffbc.jpg)
+
+https://user-images.githubusercontent.com/75971776/121720614-f07b8f00-cb00-11eb-81e1-5271f6d17625.mp4
+
 Latest release for Devcam(https://github.com/Ashutosh102/DEVCam_a_camera_web_app) and DevCam2.0(https://github.com/Ashutosh102/DevCam_2.0).
 Issues fixed.
 ## This is a javascript library for accessing webcam stream and taking photos.
