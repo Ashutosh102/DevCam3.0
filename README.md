@@ -1,5 +1,7 @@
 # Webcam Easy JS
-This is a javascript library for accessing webcam stream and taking photos.
+Latest release for Devcam(https://github.com/Ashutosh102/DEVCam_a_camera_web_app) and DevCam2.0(https://github.com/Ashutosh102/DevCam_2.0).
+Issues fixed.
+## This is a javascript library for accessing webcam stream and taking photos.
 
 You can easily add it as a module to your own app.
 
